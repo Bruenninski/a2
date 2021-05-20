@@ -9,5 +9,3 @@
 extern "C"  ASSES_TWO_API double* cppSinCos(double rad);
 
 extern "C" ASSES_TWO_API int releaseMemory(double* array);
-
-extern "C" ASSES_TWO_API int returnFive();
