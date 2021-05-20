@@ -25,9 +25,6 @@ namespace SinusCosinusApp
                 Console.WriteLine("Wrong Input, the Programm will be closed");
                 return;
             }
-
-            Console.WriteLine(System.AppContext.BaseDirectory);
-
             double[] result = new double[2];
 
             var sol = CppSinCos(radiant);
@@ -35,7 +32,6 @@ namespace SinusCosinusApp
 
             Console.WriteLine("sin: " + result[0] + "\ncos: " + result[1]);
             ReleaseMemory(sol);
-
         }
     }
 }
