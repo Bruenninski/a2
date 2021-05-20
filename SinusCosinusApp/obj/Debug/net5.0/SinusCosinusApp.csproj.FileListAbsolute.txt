@@ -1,0 +1,15 @@
+C:\Users\Nils\source\repos\SinusCosinusApp\bin\Debug\net5.0\SinusCosinusApp.exe
+C:\Users\Nils\source\repos\SinusCosinusApp\bin\Debug\net5.0\SinusCosinusApp.deps.json
+C:\Users\Nils\source\repos\SinusCosinusApp\bin\Debug\net5.0\SinusCosinusApp.runtimeconfig.json
+C:\Users\Nils\source\repos\SinusCosinusApp\bin\Debug\net5.0\SinusCosinusApp.runtimeconfig.dev.json
+C:\Users\Nils\source\repos\SinusCosinusApp\bin\Debug\net5.0\SinusCosinusApp.dll
+C:\Users\Nils\source\repos\SinusCosinusApp\bin\Debug\net5.0\ref\SinusCosinusApp.dll
+C:\Users\Nils\source\repos\SinusCosinusApp\bin\Debug\net5.0\SinusCosinusApp.pdb
+C:\Users\Nils\source\repos\SinusCosinusApp\obj\Debug\net5.0\SinusCosinusApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nils\source\repos\SinusCosinusApp\obj\Debug\net5.0\SinusCosinusApp.AssemblyInfoInputs.cache
+C:\Users\Nils\source\repos\SinusCosinusApp\obj\Debug\net5.0\SinusCosinusApp.AssemblyInfo.cs
+C:\Users\Nils\source\repos\SinusCosinusApp\obj\Debug\net5.0\SinusCosinusApp.csproj.CoreCompileInputs.cache
+C:\Users\Nils\source\repos\SinusCosinusApp\obj\Debug\net5.0\SinusCosinusApp.dll
+C:\Users\Nils\source\repos\SinusCosinusApp\obj\Debug\net5.0\ref\SinusCosinusApp.dll
+C:\Users\Nils\source\repos\SinusCosinusApp\obj\Debug\net5.0\SinusCosinusApp.pdb
+C:\Users\Nils\source\repos\SinusCosinusApp\obj\Debug\net5.0\SinusCosinusApp.genruntimeconfig.cache
